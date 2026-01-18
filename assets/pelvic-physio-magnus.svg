@@ -1,0 +1,13 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="360" fill="#49602c"/>
+  <g transform="translate(120 60)">
+    <circle cx="140" cy="120" r="120" stroke="#ffffff" stroke-width="2" fill="none"/>
+    <path d="M120 80c12-20 40-28 64-20" stroke="#ffffff" stroke-width="3" fill="none"/>
+    <path d="M110 120c-14-18-8-44 10-56" stroke="#ffffff" stroke-width="3" fill="none"/>
+    <path d="M110 120c-12 22-4 44 18 56" stroke="#ffffff" stroke-width="3" fill="none"/>
+    <path d="M132 140c-4 18 6 34 20 44" stroke="#ffffff" stroke-width="3" fill="none"/>
+    <text x="240" y="70" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" letter-spacing="10">PELVIC</text>
+    <text x="240" y="130" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" letter-spacing="10">PHYSIO</text>
+    <text x="240" y="190" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" letter-spacing="8">MAGNUS</text>
+  </g>
+</svg>
